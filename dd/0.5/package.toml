@@ -1,0 +1,6 @@
+[package]
+name = "dd"
+version = "0.5"
+description = "An exceptional tool for creating drives! Originally for Linux, rebuilt for Windows PE!"
+license = "GPL"
+author = "Linus Torvalds"
