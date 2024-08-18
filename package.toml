@@ -1,0 +1,6 @@
+[package]
+name = "Flow"
+version = "0.1"
+description = "Flow programming language"
+license = "GPL v3"
+author = "luohoa97"
